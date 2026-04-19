@@ -2,7 +2,8 @@
 https://www.google.com/search?q=mazda+m5od+transmission
 
 # Wiki:
-https://en.wikipedia.org/wiki/Mazda_M5OD_transmission
+- https://en.wikipedia.org/wiki/Mazda_M5OD_transmission
+- https://www.f150hub.com/trans/m5od-r2.html
 
 # Towing Capacity:
 ## Search:
